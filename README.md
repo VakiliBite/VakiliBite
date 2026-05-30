@@ -14,6 +14,8 @@
 + ### Front
 [![For front](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VakiliBite)
 
-###
-<img src="https://raw.githubusercontent.com/VakiliBite/VakiliBite/snake-output/snake.svg" alt="Snake animation" />
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VakiliBite/VakiliBite/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VakiliBite/VakiliBite/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VakiliBite/VakiliBite/pacman-output/pacman-contribution-graph.svg">
+</picture>
