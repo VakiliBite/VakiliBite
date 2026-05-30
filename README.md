@@ -1,32 +1,19 @@
-<h1 align="center">Hi 👋, I'm AmirAli</h1>
-<h3 align="center">A passionate Backend developer from Iran</h3>
 
-- 🌱 I’m currently learning **Lpic Exam**
-- 💬 Ask me about **Django , python , Git , Flask**
-- ⚡ Fun fact **I think iam sleepy ZzZ...**
+# Who Am I?
 
-<p align="left">
-</p>
+#### I am Amirali Vakili. I am a teacher and interested in the backend field. I try to add to my knowledge every day, of course, if the restrictions of my country allow! I am interested in the programming language Python and also Go. That's it. There is nothing special about me.
 
-<h3 align="left">Languages and Tools:</h3>
+# 🛠 Skills
++ ### Web Base
+[![For front](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://github.com/VakiliBite)
 
-<table align="left">
-  <tr>
-    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></td>
-    <td><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a></td>
-    <td><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/> </a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></td>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></td>
-    <td><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></td>
-  </tr>
-</table>
-<br clear="both"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VakiliBite&show_icons=true&theme=dark&locale=en&layout=compact" alt="VakiliBite" /></p>
++ ### Backend
+[![For Backend](https://skillicons.dev/icons?i=python,golang,django,fastapi,flask&theme=dark)](https://github.com/VakiliBite)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VakiliBite&show_icons=true&theme=dark&locale=en" alt="VakiliBite" /></p>
++ ### Front
+[![For front](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VakiliBite)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VakiliBite&theme=dark" alt="VakiliBite" /></p>
+###
+<img src="https://raw.githubusercontent.com/VakiliBite/VakiliBite/snake-output/snake.svg" alt="Snake animation" />
+###
