@@ -11,7 +11,7 @@
 + ### Backend
 [![For Backend](https://skillicons.dev/icons?i=python,golang,django,fastapi,flask&theme=dark)](https://github.com/VakiliBite)
 
-+ ### Front
++ ### Frontend
 [![For front](https://skillicons.dev/icons?i=vue&theme=dark)](https://github.com/VakiliBite)
 
 # My Activity
